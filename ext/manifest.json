@@ -1,0 +1,30 @@
+{
+    "name": "GGDcopy",
+    "description": "Copy BCO emails",
+    "version": "2.0.0",
+    "manifest_version": 2,
+    "content_scripts": [
+      {
+        "matches": [
+          "<all_urls>"
+        ],
+        "js": [
+          "content.js"
+        ]
+      }
+    ],
+    "permissions": [
+      "activeTab",
+      "http://localhost:8000/*",
+      "storage",
+      "tabs"
+    ],
+    "background": {
+      "scripts": ["background.js"]
+    },
+    "browser_action": {
+      "default_icon": "mc.png",
+      "default_popup": "popup.html",
+      "default_title": "Openen"
+    }
+  }

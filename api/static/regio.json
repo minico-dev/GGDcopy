@@ -1,0 +1,132 @@
+[
+    {
+        "naam_ext": "Amsterdam",
+        "naam_email": "Amsterdam",
+        "tel_nr": "020 - 55 55 570"
+    },
+    {
+        "naam_ext": "Brabant Zuidoost",
+        "naam_email": "Brabant Zuidoost",
+        "tel_nr": "088 - 00 31 595"
+    },
+    {
+        "naam_ext": "Drenthe",
+        "naam_email": "Drenthe",
+        "tel_nr": "0592 - 30 63 00"
+    },
+    {
+        "naam_ext": "Flevoland",
+        "naam_email": "Flevoland",
+        "tel_nr": "088 - 002 99 10"
+    },
+    {
+        "naam_ext": "Fryslan",
+        "naam_email": "Fryslan",
+        "tel_nr": "088 - 229 93 36"
+    },
+    {
+        "naam_ext": "Gelderland-Midden",
+        "naam_email": "Gelderland-Midden",
+        "tel_nr": "0800 - 844 60 00"
+    },
+    {
+        "naam_ext": "Gelderland-Zuid",
+        "naam_email": "Gelderland-Zuid",
+        "tel_nr": "088 - 144 71 26"
+    },
+    {
+        "naam_ext": "Gooi- en Vechtstreek",
+        "naam_email": "Gooi- en Vechtstreek",
+        "tel_nr": "035 - 692 64 00"
+    },
+    {
+        "naam_ext": "Groningen",
+        "naam_email": "Groningen",
+        "tel_nr": "050 - 3674000"
+    },
+    {
+        "naam_ext": "Haaglanden",
+        "naam_email": "Haaglanden",
+        "tel_nr": "088 - 355 01 00"
+    },
+    {
+        "naam_ext": "Hart voor Brabant",
+        "naam_email": "Hart voor Brabant",
+        "tel_nr": "0900 - 364 64 64"
+    },
+    {
+        "naam_ext": "Hollands Midden (onder 18, docenten, pedagogisch medewerkers)",
+        "naam_email": "Hollands Midden",
+        "tel_nr": "085 – 078 28 76"
+    },
+    {
+        "naam_ext": "Hollands Midden (alle overige BCO vragen)",
+        "naam_email": "Hollands Midden",
+        "tel_nr": "085 - 078 28 74"
+    },
+    {
+        "naam_ext": "Hollands Noorden'",
+        "naam_email": "Hollands Noorden",
+        "tel_nr": "088 - 010 05 33"
+    },
+    {
+        "naam_ext": "IJsselland",
+        "naam_email": "IJsselland",
+        "tel_nr": "088 - 443 03 95"
+    },
+    {
+        "naam_ext": "Kennemerland",
+        "naam_email": "Kennemerland",
+        "tel_nr": "023 - 789 16 31"
+    },
+    {
+        "naam_ext": "Limburg-Noord",
+        "naam_email": "Limburg-Noord",
+        "tel_nr": "088 - 119 1940"
+    },
+    {
+        "naam_ext": "Noord- en Oost Gelderland",
+        "naam_email": "Noord- en Oost Gelderland",
+        "tel_nr": "088 - 443 33 55"
+    },
+    {
+        "naam_ext": "Regio Twente",
+        "naam_email": "Regio Twente",
+        "tel_nr": "053 - 487 68 40"
+    },
+    {
+        "naam_ext": "Regio Utrecht",
+        "naam_email": "Regio Utrecht",
+        "tel_nr": "030 - 630 54 00"
+    },
+    {
+        "naam_ext": "Rotterdam Rijnmond",
+        "naam_email": "Rotterdam Rijnmond",
+        "tel_nr": "010 - 443 80 31"
+    },
+    {
+        "naam_ext": "West Brabant",
+        "naam_email": "West Brabant",
+        "tel_nr": "085 - 078 58 10"
+    },
+    {
+        "naam_ext": "Zaanstreek Waterland",
+        "naam_email": "Zaanstreek Waterland",
+        "tel_nr": "075 - 651 83 20"
+    },
+    {
+        "naam_ext": "Zeeland",
+        "naam_email": "Zeeland",
+        "tel_nr": "0113 - 24 94 00"
+    },
+    {
+        "naam_ext": "Zuid Holland zuid",
+        "naam_email": "Zuid Holland zuid",
+        "tel_nr": "078 - 770 85 80"
+    },
+    {
+        "naam_ext": "Zuid-Limburg",
+        "naam_email": "Zuid-Limburg",
+        "tel_nr": "088 - 880 50 05"
+    }
+]
